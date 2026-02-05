@@ -2,7 +2,10 @@ node_modules/
 dist/
 .env
 .DS_Store
-.vscode/
 results
 
 results*.txt
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
